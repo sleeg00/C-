@@ -6,3 +6,11 @@ C:\Users\slee0\OneDrive\바탕 화면\git\ConsoleApp1\ConsoleApp1\bin\Debug\Cons
 C:\Users\slee0\OneDrive\바탕 화면\git\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 C:\Users\slee0\OneDrive\바탕 화면\git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\slee0\OneDrive\바탕 화면\git\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

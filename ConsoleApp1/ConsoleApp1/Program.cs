@@ -1,12 +1,13 @@
 ﻿using System;
-
 namespace c1
 {
     class program
     {
-        static void Main(string[] args)
+        static int Main(int[] args)
         {
-            Console.WriteLine("Hello World!");
+            float b = 60.44f;
+            string d = b.ToString();
+            Console.WriteLine("b={0}, d={1}",b,d);
         }
     }
 }
