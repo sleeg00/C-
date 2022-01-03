@@ -1,0 +1,15 @@
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\bin\Debug\net6.0\foreach문.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\bin\Debug\net6.0\foreach문.deps.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\bin\Debug\net6.0\foreach문.runtimeconfig.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\bin\Debug\net6.0\foreach문.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\bin\Debug\net6.0\ref\foreach문.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\bin\Debug\net6.0\foreach문.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.AssemblyInfoInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.AssemblyInfo.cs
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\ref\foreach문.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\foreach문\foreach문\obj\Debug\net6.0\foreach문.genruntimeconfig.cache
