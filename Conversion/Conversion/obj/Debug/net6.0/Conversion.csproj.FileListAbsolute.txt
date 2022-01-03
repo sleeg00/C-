@@ -1,0 +1,15 @@
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfoInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.AssemblyInfo.cs
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\bin\Debug\net6.0\Conversion.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\bin\Debug\net6.0\Conversion.deps.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\bin\Debug\net6.0\Conversion.runtimeconfig.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\bin\Debug\net6.0\Conversion.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\bin\Debug\net6.0\ref\Conversion.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\bin\Debug\net6.0\Conversion.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\ref\Conversion.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Conversion\Conversion\obj\Debug\net6.0\Conversion.genruntimeconfig.cache
