@@ -1,0 +1,15 @@
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.AssemblyInfoInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.AssemblyInfo.cs
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\bin\Debug\net6.0\Two.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\bin\Debug\net6.0\Two.deps.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\bin\Debug\net6.0\Two.runtimeconfig.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\bin\Debug\net6.0\Two.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\bin\Debug\net6.0\ref\Two.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\bin\Debug\net6.0\Two.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\ref\Two.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\Two\Two\obj\Debug\net6.0\Two.genruntimeconfig.cache
