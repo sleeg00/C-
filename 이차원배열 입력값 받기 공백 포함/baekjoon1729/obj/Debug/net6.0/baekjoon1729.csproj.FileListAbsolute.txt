@@ -1,0 +1,15 @@
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\bin\Debug\net6.0\baekjoon1729.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\bin\Debug\net6.0\baekjoon1729.deps.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\bin\Debug\net6.0\baekjoon1729.runtimeconfig.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\bin\Debug\net6.0\baekjoon1729.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\bin\Debug\net6.0\ref\baekjoon1729.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\bin\Debug\net6.0\baekjoon1729.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.AssemblyInfoInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.AssemblyInfo.cs
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\ref\baekjoon1729.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\baekjoon1729\baekjoon1729\obj\Debug\net6.0\baekjoon1729.genruntimeconfig.cache
