@@ -1,0 +1,15 @@
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\bin\Debug\net6.0\split.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\bin\Debug\net6.0\split.deps.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\bin\Debug\net6.0\split.runtimeconfig.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\bin\Debug\net6.0\split.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\bin\Debug\net6.0\ref\split.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\bin\Debug\net6.0\split.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.AssemblyInfoInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.AssemblyInfo.cs
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\ref\split.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\split\split\obj\Debug\net6.0\split.genruntimeconfig.cache
