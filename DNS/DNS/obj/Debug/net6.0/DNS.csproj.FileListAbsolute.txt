@@ -1,0 +1,15 @@
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\bin\Debug\net6.0\DNS.exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\bin\Debug\net6.0\DNS.deps.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\bin\Debug\net6.0\DNS.runtimeconfig.json
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\bin\Debug\net6.0\DNS.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\bin\Debug\net6.0\ref\DNS.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\bin\Debug\net6.0\DNS.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.csproj.AssemblyReference.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.AssemblyInfoInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.AssemblyInfo.cs
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.csproj.CoreCompileInputs.cache
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\ref\DNS.dll
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.pdb
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\DNS\DNS\obj\Debug\net6.0\DNS.genruntimeconfig.cache
