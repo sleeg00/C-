@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Game
 {
-    internal class Diagram
+    class Diagram
     {
         internal int X
         {
@@ -17,6 +17,27 @@ namespace Game
         {
             get;
             private set;
+        }
+        internal Diagram()
+        {
+            Reset();
+        }
+        internal void Reset()
+        {
+            X = GameRule.SX;
+            Y = GameRule.SY;
+        }
+        internal void MoveLeft()
+        {
+            X--;
+        }
+        internal void MoveRight()
+        {
+            X++;
+        }
+        internal void MoveDown()
+        {
+            Y++;
         }
     }
 }
