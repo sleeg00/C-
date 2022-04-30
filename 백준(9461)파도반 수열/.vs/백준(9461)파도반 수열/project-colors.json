@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "371b991e-6cfb-46f7-9486-65ee5344c2ee": {
+      "ProjectGuid": "371b991e-6cfb-46f7-9486-65ee5344c2ee",
+      "DisplayName": "백준(9461)파도반 수열",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

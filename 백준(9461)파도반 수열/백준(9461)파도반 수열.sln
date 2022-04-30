@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "백준(9461)파도반 수열", "백준(9461)파도반 수열\백준(9461)파도반 수열.vcxproj", "{371B991E-6CFB-46F7-9486-65EE5344C2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Debug|x64.ActiveCfg = Debug|x64
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Debug|x64.Build.0 = Debug|x64
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Debug|x86.Build.0 = Debug|Win32
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Release|x64.ActiveCfg = Release|x64
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Release|x64.Build.0 = Release|x64
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Release|x86.ActiveCfg = Release|Win32
+		{371B991E-6CFB-46F7-9486-65EE5344C2EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8271D69-D4C8-4D6E-83EC-4A7D51ACD5EF}
+	EndGlobalSection
+EndGlobal
