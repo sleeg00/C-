@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "06bd8cd3-da1a-44f9-bac2-ca662f92ca0d": {
+      "ProjectGuid": "06bd8cd3-da1a-44f9-bac2-ca662f92ca0d",
+      "DisplayName": "01타일(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
