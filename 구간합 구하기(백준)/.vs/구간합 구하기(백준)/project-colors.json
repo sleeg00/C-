@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c496e22a-18ec-4cbe-abe5-d4bc3cd6efb9": {
+      "ProjectGuid": "c496e22a-18ec-4cbe-abe5-d4bc3cd6efb9",
+      "DisplayName": "구간합 구하기(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
