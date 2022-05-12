@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "023bb258-a52f-413a-a9fc-c45788de570b": {
+      "ProjectGuid": "023bb258-a52f-413a-a9fc-c45788de570b",
+      "DisplayName": "스택(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
