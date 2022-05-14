@@ -1,2 +1,3 @@
 ﻿  깊이우선탐색(백준).cpp
-  깊이우선탐색(백준).vcxproj -> C:\Users\slee0\OneDrive\바탕 화면\나\학교\2학년\전공\c++\깊이우선탐색(백준)\x64\Debug\깊이우선탐색(백준).exe
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\깊이우선탐색(백준)\깊이우선탐색(백준)\깊이우선탐색(백준).cpp(19,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\slee0\OneDrive\바탕 화면\git\c#\깊이우선탐색(백준)\깊이우선탐색(백준)\깊이우선탐색(백준).cpp(21,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

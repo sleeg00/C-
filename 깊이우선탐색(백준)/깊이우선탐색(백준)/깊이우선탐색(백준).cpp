@@ -19,8 +19,8 @@ int main() {
 	scanf("%d %d %d", &q, &w, &e);
 	for (int i = 0; i < w; i++) {
 		scanf("%d %d", &n, &m);
-		a[n].push_back(m);
 		a[m].push_back(n);
+		a[n].push_back(m);
 	}
 	for (int i = 1; i <= q; i++) {
 		sort(a[i].begin(), a[i].end());
