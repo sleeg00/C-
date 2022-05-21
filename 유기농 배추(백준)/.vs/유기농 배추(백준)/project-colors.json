@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6685cf11-c295-4f0f-9225-974923251090": {
+      "ProjectGuid": "6685cf11-c295-4f0f-9225-974923251090",
+      "DisplayName": "유기농 배추(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
