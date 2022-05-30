@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1bb0d48-0c6f-4ae3-a2b0-c29d2ed85355": {
+      "ProjectGuid": "b1bb0d48-0c6f-4ae3-a2b0-c29d2ed85355",
+      "DisplayName": "제로(백준)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
